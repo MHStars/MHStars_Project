@@ -1,6 +1,6 @@
 # 🌟 Monster Hunter Stars 🌟
 
-![Logo de Monster Hunter Stars](enlace_a_tu_logo.png)
+![Logo de Monster Hunter Stars](https://github.com/MHStars/MHStars_Project/blob/main/Images/Logo.png?raw=true)
 
 ## 🎮 ¡Bienvenidos, Cazadores!
 
